@@ -9,6 +9,7 @@ Un projet conçu pour cartographier, analyser et optimiser l'implantation des st
 ---
 
 ## 🎯 Problématique & Enjeux Stratégiques
+<img width="1366" height="720" alt="Screenshot 2026-05-25 134042" src="https://github.com/user-attachments/assets/3b91443c-7b4b-4405-94fc-f07b9c8855e6" />
 La transition vers la mobilité électrique en Côte d'Ivoire est en marche, mais l'adoption des véhicules dépend fortement de la disponibilité et de la visibilité des infrastructures de recharge. 
 Cet outil répond à trois défis majeurs :
 1. **Visibilité :** Centraliser l'information pour les utilisateurs (localisation, puissance, type de charge).
@@ -16,8 +17,6 @@ Cet outil répond à trois défis majeurs :
 3. **Planification Spatiale :** Identifier les zones sous-équipées grâce à des analyses d'accessibilité.
 
 ## ✨ Fonctionnalités Clés
-<img width="1366" height="720" alt="Screenshot 2026-05-25 134042" src="https://github.com/user-attachments/assets/3b91443c-7b4b-4405-94fc-f07b9c8855e6" />
-
 * **Cartographie Dynamique :** Visualisation des stations actives et à venir avec des marqueurs personnalisés par opérateur.
 * **Filtres Avancés :** * Par type de charge (Rapide, Lente, Solaire).
   * Par statut (Actif, À venir).
