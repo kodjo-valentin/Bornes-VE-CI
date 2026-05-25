@@ -4,7 +4,7 @@
 
 Un projet conçu pour cartographier, analyser et optimiser l'implantation des stations de recharge pour véhicules électriques en Côte d'Ivoire (focus initial sur Abidjan). Cette application web interactive permet aux décideurs publics et aux opérateurs privés d'identifier les opportunités stratégiques et les zones blanches du réseau.
 
-🚀 **[CLIQUEZ ICI POUR TESTER L'APPLICATION EN LIVE](https://ton-pseudo.github.io/ton-depot/)**
+🚀 **CLIQUEZ ICI POUR TESTER L'APPLICATION EN LIVE: https://kodjo-valentin.github.io/Bornes-VE-CI/**
 
 ---
 
